@@ -1,8 +1,7 @@
 ---
 title: 免費聽音樂軟件推薦
-published: 2025-05-015
+published: 2025-05-15
 description: 免費聽音樂軟件推薦
-image: ./cover.jpg
 tags: [前端, 开发]
 category: 前端开发
 draft: false
