@@ -40,7 +40,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
-		desktop:"https://bing.img.run/rand_uhd.php",
+		desktop: "https://bing.img.run/rand_uhd.php",
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: "https://bing.img.run/rand_m.php",
