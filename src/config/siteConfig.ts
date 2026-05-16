@@ -1,6 +1,6 @@
 import type { SiteConfig } from "@/types/config";
 import { fontConfig } from "./fontConfig";
-import { tuple } from "astro:schema";
+import { tuple } from "astro/zod";
 
 // 定义站点语言
 // 语言代码，例如：'zh_CN', 'zh_TW', 'en', 'ja', 'ru'。
