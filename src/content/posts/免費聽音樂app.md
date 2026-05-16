@@ -2,8 +2,8 @@
 title: 免費聽音樂軟件推薦
 published: 2025-05-15
 description: 免費聽音樂軟件推薦
-tags: [前端, 开发]
-category: 前端开发
+tags: [utility tools]
+category: utility tools
 draft: false
 ---
 **免費聽音樂軟件推薦：Algermusic、落雪音樂與 Spotify 網頁優化指南**

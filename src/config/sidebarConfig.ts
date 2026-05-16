@@ -78,11 +78,11 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：分类组件
 			type: "categories",
 			// 是否启用该组件
-			enable: false,
+			enable: true,
 			// 组件位置
 			position: "sticky",
 			// 是否在文章详情页显示
-			showOnPostPage: false,
+			showOnPostPage: true,
 			// 响应式配置
 			responsive: {
 				// 折叠阈值：当分类数量超过>5个时自动折叠
@@ -93,11 +93,11 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件类型：标签组件
 			type: "tags",
 			// 是否启用该组件
-			enable: true,
+			enable: false,
 			// 组件位置
 			position: "sticky",
 			// 是否在文章详情页显示
-			showOnPostPage: true,
+			showOnPostPage: false,
 			// 响应式配置
 			responsive: {
 				// 折叠阈值：当标签数量超过>10个时自动折叠

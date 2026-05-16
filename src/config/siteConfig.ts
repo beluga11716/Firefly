@@ -151,7 +151,7 @@ export const siteConfig: SiteConfig = {
 		// 是否在文章列表中显示标签
 		showTags: true,
 		// 文章简介显示行数，设为 0 则不截断
-		descriptionLines: 0,
+		descriptionLines: 2,
 		// 是否允许用户切换布局
 		allowSwitch: false,
 		// 网格布局配置，仅在 defaultMode 为 "grid" 或允许切换布局时生效
