@@ -24,13 +24,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/beluga11716",
+			url: "https://github.com/",
 			showName: false,
 		},
 		{
-			name: "twitter",
-			icon: "fa7-brands:twitter",
-			url: "https://x.com/longlong11716",
+			name: "x",
+			icon: "fa7-brands:x-twitter",
+			url: "https://x.com/",
 			showName: false,
 		},
 		{
