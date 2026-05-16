@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "RAYNARD",
 
 	// 个人签名
-	bio: "我开悟了，我已超脱竞争的零和博弈。但我仍保持谦卑，既然你来了 就与我共进一杯茶吧。",
+	bio: "its not hard. its just new.",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -25,6 +25,18 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/beluga11716",
+			showName: false,
+		},
+		{
+			name: "twitter",
+			icon: "fa7-brands:twitter",
+			url: "https://x.com/longlong11716",
+			showName: false,
+		},
+		{
+			name: "telegram",
+			icon: "fa7-brands:telegram",
+			url: "https://t.me/+jjPi8QtiO2ZhMzE9",
 			showName: false,
 		},
 		{

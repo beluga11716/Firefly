@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "good to see u",
 
 	// 公告内容
-	content: "it's not hard.it's just new.",
+	content: "我開悟了，我已經超脫競爭的零和遊戲。但我仍保持謙卑，既然你來了 就與我共進一杯茶吧。",
 
 	// 是否允许用户关闭公告
 	closable: false,
