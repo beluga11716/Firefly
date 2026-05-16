@@ -43,14 +43,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		desktop:"https://bing.img.run/rand_uhd.php",
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
-		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
-			"assets/images/MobileWallpaper/m4.avif",
-			"assets/images/MobileWallpaper/m5.avif",
-			"assets/images/MobileWallpaper/m6.avif",
-		],
+		mobile: "https://bing.img.run/rand_m.php",
 	},
 	// 横幅壁纸和全屏壁纸共享配置
 	common: {
@@ -158,7 +151,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 背景模糊度
 		blur: 5,
 		// 卡片透明度，0-1之间，值越小越透明
-		cardOpacity: 0.8,
+		cardOpacity: 0.9,
 	},
 	// 全屏壁纸模式特有配置
 	fullscreen: {
