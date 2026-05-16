@@ -40,10 +40,25 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
-		desktop: "https://bing.img.run/rand_uhd.php",
+		desktop: [
+	  "assets/images/DesktopWallpaper/trees1.jpg",
+	  "assets/images/DesktopWallpaper/trees2.jpg",
+	  "assets/images/DesktopWallpaper/trees3.jpg",
+	  "assets/images/DesktopWallpaper/trees4.jpg",
+	  "assets/images/DesktopWallpaper/trees5.jpg",
+	  "assets/images/DesktopWallpaper/star1.jpg",
+	  ],
+	 
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
-		mobile: "https://bing.img.run/rand_m.php",
+		mobile: [
+	  "assets/images/DesktopWallpaper/trees1.jpg",
+	  "assets/images/DesktopWallpaper/trees2.jpg",
+	  "assets/images/DesktopWallpaper/trees3.jpg",
+	  "assets/images/DesktopWallpaper/trees4.jpg",
+	  "assets/images/DesktopWallpaper/trees5.jpg",
+	  "assets/images/DesktopWallpaper/star1.jpg",
+	  ],
 	},
 	// 横幅壁纸和全屏壁纸共享配置
 	common: {
