@@ -6,7 +6,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	// 是否允许用户通过导航栏切换壁纸模式
 	// 且同时维护多种壁纸模式过于复杂（已经屎山代码），在切换时有时候可能会出现一些奇怪的过渡效果或者bug
 	// 推荐只选择自己喜欢的模式并关闭切换功能
-	switchable: false,
+	switchable: true,
 	/**
 	 * 背景图片配置
 	 * 图片路径支持三种格式：
@@ -40,25 +40,11 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 	src: {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
-		desktop: [
-	  "assets/images/DesktopWallpaper/trees1.avif",
-	  "assets/images/DesktopWallpaper/trees2.avif",
-	  "assets/images/DesktopWallpaper/trees3.avif",
-	  "assets/images/DesktopWallpaper/trees4.avif",
-	  "assets/images/DesktopWallpaper/trees5.avif",
-	  "assets/images/DesktopWallpaper/star1.avif",
-	  ],
+		desktop: "https://bing.img.run/rand_uhd.php",
 	 
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
-		mobile: [
-	  "assets/images/DesktopWallpaper/trees1.avif",
-	  "assets/images/DesktopWallpaper/trees2.avif",
-	  "assets/images/DesktopWallpaper/trees3.avif",
-	  "assets/images/DesktopWallpaper/trees4.avif",
-	  "assets/images/DesktopWallpaper/trees5.avif",
-	  "assets/images/DesktopWallpaper/star1.avif",
-	  ],
+		mobile: "https://bing.img.run/rand_m.php",
 	},
 	// 横幅壁纸和全屏壁纸共享配置
 	common: {
@@ -162,9 +148,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 层级，确保壁纸在背景层
 		zIndex: -1,
 		// 壁纸透明度
-		opacity: 1.0,
+		opacity: 0.0,
 		// 背景模糊度
-		blur: 0,
+		blur: 5,
 		// 卡片透明度，0-1之间，值越小越透明
 		cardOpacity: 0.9,
 	},
