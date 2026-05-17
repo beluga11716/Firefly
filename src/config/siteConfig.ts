@@ -42,7 +42,7 @@ export const siteConfig: SiteConfig = {
 	// 页面整体宽度（单位：rem）
 	// 数值越大可以让页面内容区域更宽
 	// 在使用单侧栏边栏时，建议调低一些宽度以获得更好的视觉效果。
-	pageWidth: 80,
+	pageWidth: 100,
 
 	// 网站Card样式配置
 	card: {
@@ -106,7 +106,7 @@ export const siteConfig: SiteConfig = {
 	showLastModified: true,
 
 	// 文章过期阈值（天数），超过此天数才显示"上次编辑"卡片
-	outdatedThreshold: 30,
+	outdatedThreshold: 90,
 
 	// 是否开启分享海报生成功能
 	sharePoster: true,
