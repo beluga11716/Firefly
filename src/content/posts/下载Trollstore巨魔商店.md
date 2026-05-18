@@ -10,40 +10,44 @@ draft: false
 
 通過巨魔商店让你的非官方ipa应用能够安装在设备上 并永久签名
 
+::github{repo="opa334/TrollStore"}
+
 ## step1 准备工作
 
 - 一台正常运行的Windows电脑 要能够正常连接你的苹果设备
 
 - 一部能正常连接电脑的苹果设备
-
-<br>
+- 苹果设备的系统要求符合下面表格中的设备 并对于安装不同版本的trollstore
+> [!important]
+> 如果您的设备运行的是 iOS 14.0 beta 1或更早版本，运行的是 iOS 16.7.x（不包括 16.7 RC (20H18)），或者运行的是 iOS 17.0.1 或更高版本，则 TrollStore 将永远不会支持它。
+![image.png](https://img.raynard.lol/file/blog/1779079870121_image.png)
 
 ## step2 安装TrollRestore
 
 [點此下載](https://wwbaq.lanzouu.com/ikbNE3ff7dsh) 密碼：beluga
 
-<br>
+
 
 ## step3 安装Trollstore
 
+> [!tip]
+> 最好电脑开全局代理 TrollRestore会请求github的官方release下载trollstore的安装包 所以网不好的话可能报错
+
 先把你的设备接到电脑上 电脑提示已连接你的设备后 点开 TrollRestore.exe
 
-<img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/4fc961bb-26cb-4ed8-869a-a98d4c79455c" />
+![image.png](https://img.raynard.lol/file/blog/1779099930738_image.png)
 
 
-出现这个界面然后输入：Tips （直接复制粘贴）
-这时候終端会出现
+出现这个界面然后输入：`Tips` （直接复制粘贴）
 
-<img width="400" height="200" alt="Image" src="https://github.com/user-attachments/assets/9b621c88-05c9-4be1-9e5e-ce14503108b8" />
+这时候你的设备会重启 重启完成之后 点开你的提示软件
 
-而你的设备会重启 重启完成之后 点开你的提示软件
-
-<img width="222" height="250" alt="Image" src="https://github.com/user-attachments/assets/20321adf-8f45-418d-80a1-91c70b17d706" />
+![image.png](https://img.raynard.lol/file/blog/1779098915182_image.png)
 
 <br>
 
 然后出现这个画面↓
-<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/c99399b7-4fe0-4bd5-b85c-7283097056a0" />
+![image.png](https://img.raynard.lol/file/blog/1779099258727_image.png)
 
 点Install TrollStore （點之前记得挂梯子）
 
