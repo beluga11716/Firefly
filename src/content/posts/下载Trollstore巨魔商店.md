@@ -10,6 +10,8 @@ draft: false
 
 通過巨魔商店让你的非官方ipa应用能够安装在设备上 并永久签名
 
+**github**:
+
 ::github{repo="opa334/TrollStore"}
 
 ## step1 准备工作
@@ -47,7 +49,7 @@ draft: false
 <br>
 
 然后出现这个画面↓
-![image.png](https://img.raynard.lol/file/blog/1779099258727_image.png)
+![image.png](https://img.raynard.lol/file/blog/1779177102128_image.png)
 
 点Install TrollStore （點之前记得挂梯子）
 
