@@ -3,7 +3,7 @@ title: Markdown 书写指南/示例链接
 published: 2026-05-18
 description: Markdown 书写指南/示例链接
 tags: [utility tools, markdown]
-category: utility tools
+category: blog
 slug: md
 draft: false
 ---
