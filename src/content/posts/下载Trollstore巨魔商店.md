@@ -4,6 +4,7 @@ published: 2026-03-01
 description: 下载Trollstore巨魔商店
 tags: [utility tools]
 category: utility tools
+slug: Trollstore
 draft: false
 ---
 # 苹果ipa自签名应用巨魔商店
