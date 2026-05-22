@@ -56,6 +56,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/cover1.jpg",
 				lrc: "",
 			},
+			{
+				name: "Max Riser - Ladyfingers Lofi.mp3",
+				artist: "Max Riser",
+				url: "/assets/music/Max Riser - Ladyfingers Lofi.mp3",
+				cover: "/assets/music/cover/cover2.jpg",
+				lrc: "",
+			},
 		],
 	},
 };
