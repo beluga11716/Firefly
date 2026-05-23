@@ -1,1 +1,6 @@
 *.js linguist-language=astro
+# Markdown 文件强制使用 LF（Obsidian 友好）
+*.md text eol=lf
+
+# 可选：所有文本文件都自动处理
+* text=auto
