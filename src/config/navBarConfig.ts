@@ -41,15 +41,21 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "GitHub",
-				url: "https://github.com/",
+				url: "https://github.com/beluga11716",
 				external: true,
 				icon: "fa7-brands:github",
 			},
 			{
 				name: "telegram",
-				url: "https://t.me/+jjPi8QtiO2ZhMzE9",
+				url: "https://t.me/raynard11716",
 				external: true,
 				icon: "fa7-brands:telegram",
+			},
+			{
+				name: "mailstation",
+				url: "https://mail.raynard.lol",
+				external: true,
+				icon: "fa7-solid:envelope",
 			},
 		],
 	});
