@@ -24,13 +24,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/",
+			url: "https://github.com/beluga11716",
 			showName: false,
 		},
 		{
 			name: "x",
 			icon: "fa7-brands:x-twitter",
-			url: "https://x.com/",
+			url: "https://x.com/raynard11716",
 			showName: false,
 		},
 		{
@@ -42,7 +42,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:ggbeluga11716@gmail.com",
+			url: "https://mail.raynard.lol/",
 			showName: false,
 		},
 	],
