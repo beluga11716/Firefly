@@ -32,8 +32,17 @@ author: raynard
 > [!IMPORTANT] IMPORTANT
 > 要有外网环境才能访问chrome web store链接 如果没有外网环境 直接看下一步
 
-准备好对应的拓展的链接先 比如steamdb就是：https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon
-翻译蛙就是：https://chromewebstore.google.com/detail/%E9%99%AA%E8%AE%80%E8%9B%99-%E7%BF%BB%E8%AD%AF%E8%88%87%E5%AD%B8%E7%BF%92/modkelfkcfjpgbfmnbnllalkiogfofhb
+准备好对应的拓展的链接先 比如**steamdb**就是：
+
+```
+https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon
+```
+
+**翻译蛙**就是：
+```
+https://chromewebstore.google.com/detail/%E9%99%AA%E8%AE%80%E8%9B%99-%E7%BF%BB%E8%AD%AF%E8%88%87%E5%AD%B8%E7%BF%92/modkelfkcfjpgbfmnbnllalkiogfofhb
+```
+
 ![image.png](https://img.raynard.lol/file/blog/1779803960161.png)
 
 ## step3 在steam装上拓展
@@ -49,7 +58,7 @@ author: raynard
 在写的时候去看了相关的视频 底下评论区也有写泄露这件事 然后沉浸式翻译插件官方有解释 仁者见仁吧
 ![image.png](https://img.raynard.lol/file/blog/1779805404360.png)
 
-## 没有外网环境安装方法
+## 没有外网环境的安装方法
 直接下载对应的拓展的文件 即.crx文件
 这里可以直接下载我传的
 https://wwbaq.lanzouu.com/b009i2wxvc
