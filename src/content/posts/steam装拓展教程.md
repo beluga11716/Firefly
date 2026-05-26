@@ -58,3 +58,8 @@ https://wwbaq.lanzouu.com/b009i2wxvc
 打开右上角的开发者模式
 然后点加载已解压的拓展程序 选中对应的文件即可安装
 ![image.png](https://img.raynard.lol/file/blog/1779806333765.png)
+
+参考视频：https://www.bilibili.com/video/BV1AZ4y187Ex/
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//www.bilibili.com/blackboard/html5mobileplayer.html?isOutside=true&aid=384044506&bvid=BV1AZ4y187Ex&cid=720931061&p=1" frameborder="no" scrolling="no"></iframe>
+</div>
