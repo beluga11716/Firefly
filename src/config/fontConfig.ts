@@ -81,7 +81,7 @@ export const fontConfig = {
 		"noto-serif-sc-local": {
 			id: "noto-serif-sc-local",
 			name: "思源宋体",
-			src: "/fonts/Noto Serif SC-900-subset.woff2",        // ← 改成你的实际文件名
+			src: "/fonts/NotoSerifSC-900.woff2",        // ← 改成你的实际文件名
 			family: "Noto Serif SC",
 			display: "swap" as const,
 		},
