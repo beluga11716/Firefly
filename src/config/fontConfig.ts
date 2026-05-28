@@ -5,7 +5,7 @@ export const fontConfig = {
 	// 是否预加载字体文件
 	preload: true,
 	// 当前选择的字体，支持多个字体组合
-	selected: ["noto-serif-sc-black"],
+	selected: ["noto-serif-sc-local"],
 
 	// 字体列表
 	// 推荐使用可靠的 CDN 服务商提供的字体链接，它天然做了按需分片加载，且性能较好
@@ -74,6 +74,14 @@ export const fontConfig = {
 			id: "noto-serif-sc-black",
 			name: "思源宋体 Black",
 			src: "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap",
+			family: "Noto Serif SC",
+			display: "swap" as const,
+		},
+				// Noto Serif SC 本地字体（推荐）
+		"noto-serif-sc-local": {
+			id: "noto-serif-sc-local",
+			name: "思源宋体",
+			src: "/fonts/Noto Serif SC-900-subset.woff2",        // ← 改成你的实际文件名
 			family: "Noto Serif SC",
 			display: "swap" as const,
 		},
